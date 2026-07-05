@@ -1,230 +1,98 @@
-<h1 align="center">Hi 👋, I'm Maitray Agrawal</h1>
-
-<h3 align="center">
-AI/ML Engineer • Machine Learning Engineer • Full Stack Developer
-</h3>
-
+<h1 align="center">Maitray Agrawal</h1>
+<h3 align="center">AI/ML Engineer &nbsp;•&nbsp; Backend &amp; Full-Stack Developer &nbsp;•&nbsp; Final-Year CSE (AI &amp; ML)</h3>
 <p align="center">
-Building production-ready AI systems, LLM applications, and intelligent automation.
+Building production-grade AI systems — agentic pipelines, LLM applications, and backend platforms.
 </p>
-
 <p align="center">
-<a href="https://github.com/maitray-agrawal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/maitray-agrawal-88a7bb291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-<a href="https://maitray-agrawal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"></a>
-<a href="https://maitx.vercel.app/"><img src="https://img.shields.io/badge/MAITX-4CAF50?style=for-the-badge"></a>
-<a href="mailto:maitrayagrawal1705@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/maitray-agrawal-88a7bb291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://maitray-agrawal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"></a>
+<a href="mailto:maitrayagrawal1705@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://leetcode.com/u/Maitray_Agrawal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
+<a href="https://www.codechef.com/users/aero_hawk_99"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"></a>
 </p>
+<br>
+About
 
----
+Final-year B.Tech Computer Science (AI & ML) student at Pimpri Chinchwad University, Pune. Recently completed an AI/ML Engineer internship at Tata Motors, shipping four backend and ML systems into internal use rather than as prototypes.
 
-# 👨‍💻 About Me
+I focus on production AI systems: deterministic business logic first, LLMs only where rule-based logic can't solve the problem, FastAPI services with a clear validation and service-layer boundary.
 
-🎓 Final Year **B.Tech Computer Science (AI & ML)** student at **Pimpri Chinchwad University**
+Currently looking for AI/ML Engineer, Backend Engineer, and Data Science roles.
 
-💼 Former **AI/ML Engineer Intern @ Tata Motors**
 
-🤖 Passionate about
+Experience
 
-- Agentic AI
-- Machine Learning
-- LLM Applications
-- FastAPI
-- Backend Engineering
-- Data Science
-- Intelligent Automation
+AI/ML Engineer Intern — Tata Motors — May 2026 – Jul 2026
 
-I enjoy building AI systems that solve real-world industrial problems—from manufacturing intelligence and ERP platforms to AI recruitment engines and autonomous LLM pipelines.
+Delivered four systems into internal use:
 
----
 
-# 🚀 Featured Projects
+ICME — Flask + SQLite (FTS5) competency-mapping engine linking shop-floor skills to vocational curricula; cut manual reconciliation effort by ~40%
+PCU-TATA ERP — FastAPI + React student lifecycle system with fuzzy Excel ingestion and automated PDF generation (ReportLab)
+TMPVL AuditIQ — FastAPI rule engine with 11 compliance rules and WARNING/ERROR/FRAUD severity tagging for billing audits
+Supervised ML model for spare-parts demand forecasting
 
-## 🧠 MAITX
-**Agentic AI Orchestration Platform**
 
-Production-ready AI workflow that processes high-volume WhatsApp broadcasts using Groq LLaMA, Gemini, FastAPI, and MongoDB.
 
-**Highlights**
+Featured Projects
 
-- 500+ messages/day
-- Sub-200ms response time
-- Structured JSON extraction
-- Intelligent LLM routing
-- Async architecture
-- Railway + Vercel deployment
+MAITX
 
-🔗 https://maitx.vercel.app/
+Agentic AI orchestration pipeline — ingests 500+ unstructured WhatsApp broadcast messages/day and converts them into structured, validated data.
 
----
+FastAPI Groq LLaMA 3.1 Gemini 2.5 Flash Meta WhatsApp API Pydantic MongoDB Atlas
 
-## 🎯 TalentMind AI
 
-AI-powered Recruitment Intelligence Platform
+Deterministic LLM routing — ~60% reduction in API calls vs. naive routing
+Sub-200ms webhook response at 14,400 requests/day
+Automated 48-hour deadline notification engine
 
-Features
 
-- Resume Parsing
-- Explainable AI
-- Candidate Ranking
-- TF-IDF Matching
-- Groq-powered JD Parser
-- 100,000 Candidate Benchmark
+TalentMind AI
 
----
+AI recruitment intelligence platform with a six-pillar candidate-ranking engine and an explainability module for human-readable scoring justifications.
 
-## 🎓 MentoraAI
+FastAPI scikit-learn Groq LLM SQLAlchemy SQLite
 
-AI Career Guidance Platform
 
-Built for Smart India Hackathon 2025.
+Benchmarked at 361.51 candidates/sec across 100,000 candidates
+Groq-powered parser for unstructured job descriptions
 
-Features
 
-- Career Recommendation Engine
-- ML-based Assessments
-- NLP
-- OpenAI
-- Bhashini
-- React + FastAPI
+MentoraAI
 
-🔗 https://mentoraai1.netlify.app/
+AI-powered career guidance platform — built for Smart India Hackathon 2025, with multilingual and speech support.
 
----
+React React Native FastAPI TensorFlow scikit-learn Spring Boot Supabase AWS Docker Bhashini API
 
-## 🏭 Industrial Competency Intelligence System
-
-Enterprise AI platform developed during Tata Motors Internship.
-
-Features
-
-- Competency Mapping
-- Shop Management
-- Diploma Theory Mapping
-- Excel Ingestion
-- Manufacturing Intelligence
-
----
-
-## 📊 TMPVL AuditIQ
-
-Billing Audit & Fraud Detection Platform
-
-Business rule engine capable of detecting
-
-- Fraud
-- Duplicate Billing
-- Compliance Issues
-- Invoice Violations
-
----
-
-# 🏢 Experience
-
-## AI/ML Engineer Intern — Tata Motors
-
-Worked on multiple enterprise-grade AI systems including
-
-- Industrial Competency Mapping Engine
-- Manufacturing ERP Platform
-- Billing AuditIQ
-- Spare Parts Demand Forecasting
-- Manufacturing Intelligence
 
 Tech Stack
 
-Python • FastAPI • React • SQLite • Machine Learning
+Languages — Python, Java, JavaScript, C++
 
----
+AI / ML — TensorFlow, scikit-learn, XGBoost, Pandas, NumPy, LLM Routing, RAG, Prompt Engineering, Explainable AI
 
-# 💻 Tech Stack
+Backend — FastAPI, Flask, Django, REST APIs, SQLAlchemy, Pydantic
 
-### Languages
+Frontend — React, React Native, Tailwind CSS
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+Data — MongoDB, PostgreSQL, MySQL, SQLite, Supabase, Amazon Redshift
 
-### AI / ML
+Cloud & DevOps — AWS (EC2, S3, IAM, RDS), Docker, Git, GitHub Actions, Vercel, Railway
 
-TensorFlow • Scikit-Learn • Pandas • NumPy • XGBoost • NLP • LLMs • Prompt Engineering • RAG
 
-### Backend
-
-FastAPI • Flask • Django • Node.js • REST APIs
-
-### Frontend
-
-React • React Native • HTML • CSS • Tailwind CSS
-
-### Databases
-
-MongoDB • MySQL • PostgreSQL • SQLite • Supabase
-
-### Cloud & DevOps
-
-AWS • Docker • Git • Railway • Vercel
-
----
-
-# 📈 GitHub Stats
+GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maitray-agrawal&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=maitray-agrawal&theme=github-dark&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=maitray-agrawal&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitray-agrawal&layout=compact&theme=default&hide_border=true"/>
 </p>
 
-<p align="center">
+Certifications
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitray-agrawal&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Certifications & Achievements
-
-- AI/ML Engineer Intern @ Tata Motors
-- Smart India Hackathon 2025 (College Round Qualifier)
-- Oracle Cloud Certified
-- AWS Academy Graduate
-- Google Cloud Data Analytics Internship (Grade O)
-- CodeChef ★★★ Competitive Programmer
-- Production AI Systems Builder
-
----
-
-# 🌱 Currently Learning
-
-- Multi-Agent AI Systems
-- MLOps
-- LLM Evaluation
-- AI Infrastructure
-- Scalable Backend Systems
-- AI Agents
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://maitray-agrawal.vercel.app/">Portfolio</a> •
-<a href="https://maitx.vercel.app/">MAITX</a> •
-<a href="https://mentoraai1.netlify.app/">MentoraAI</a> •
-<a href="https://www.linkedin.com/in/maitray-agrawal-88a7bb291/">LinkedIn</a> •
-<a href="https://leetcode.com/u/Maitray_Agrawal/">LeetCode</a> •
-<a href="https://www.codechef.com/users/aero_hawk_99">CodeChef</a> •
+Oracle Cloud AI Foundations · Oracle Data Management · AWS Academy Cloud Foundations · Google Cloud Data Analytics (Grade O, AICTE-EduSkills)
 
 
-</p>
+Connect
 
----
-
-<p align="center">
-<i>"Building practical AI systems that solve real-world problems."</i>
-</p>
+Portfolio · LinkedIn · LeetCode · CodeChef · Kaggle · HackerRank · HackerEarth · Email
