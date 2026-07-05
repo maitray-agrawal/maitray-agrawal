@@ -1,6 +1,6 @@
 <h1 align="center">Maitray Agrawal</h1>
 
-<h3 align="center">AI/ML &amp; Full-Stack Engineer &nbsp;•&nbsp; Data Science &amp; Analytics &nbsp;•&nbsp; Agentic AI Systems</h3>
+<h3 align="center">AI/ML &amp; Full-Stack Developer &nbsp;•&nbsp; Data Science &amp; Analytics &nbsp;•&nbsp; Building Agentic AI Systems</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%7C+Data+Science+%26+Analytics;Building+Agentic+AI+%26+LLM-Powered+Systems;Open+to+AI%2FML%2C+Backend+%26+Data+Roles" alt="typing animation" />
@@ -122,4 +122,4 @@ Oracle Cloud AI Foundations · Oracle Data Management · AWS Academy Cloud Found
 
 ## Connect
 
-[Portfolio](https://maitray-agrawal.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/maitray-agrawal-88a7bb291/) · [LeetCode](https://leetcode.com/u/Maitray_Agrawal/) · [CodeChef](https://www.codechef.com/users/aero_hawk_99) · [Kaggle](https://www.kaggle.com/maitrayagrawal) · [HackerRank](https://www.hackerrank.com/profile/Maitray_Agrawal) · [HackerEarth](https://www.hackerearth.com/@maitrayagrawal1705/) · [Email](mailto:maitrayagrawal1705@gmail.com)
+[Portfolio](https://maitray-agrawal.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/maitray-agrawal-88a7bb291/) · [LeetCode](https://leetcode.com/u/Maitray_Agrawal/) · [CodeChef](https://www.codechef.com/users/aero_hawk_99) · [Email](mailto:maitrayagrawal1705@gmail.com)
