@@ -36,8 +36,8 @@ Currently looking for **AI/ML Engineer, Full-Stack Developer, Data Scientist, an
 | [Niyukti](https://astra-niyukti.vercel.app/) | HRTech — talent intelligence & candidate matching | Live |
 | [Vajra](https://vajra-astra.onrender.com/) | Industrial AI — crisis & incident intelligence | Live |
 | [Satyam](https://satyam-app.onrender.com/) | GovTech/TrustTech — verification & compliance | Live |
-| Margadarshi | EdTech/CareerTech — multilingual career guidance | Live |
-| KuberSetu | FinTech — financial intelligence & operations | [Live](https://kuber-setu.vercel.app/) |
+| [Margadarshi](https://mentoraai1.netlify.app/) | EdTech/CareerTech — multilingual career guidance | Live |
+| [KuberSetu](kuber-setu.vercel.app/) | FinTech — financial intelligence & operations | Live |
 | Vaidhya | HealthTech — AI clinical documentation | Coming soon |
 | Agni | Agentic reasoning / sovereign AI layer | Coming soon |
 
@@ -48,7 +48,7 @@ Currently looking for **AI/ML Engineer, Full-Stack Developer, Data Scientist, an
 **AI/ML Engineer Intern — Tata Motors** — *May 2026 – Jul 2026*
 
 Delivered four systems into internal use:
-- **ICME** — Flask + SQLite (FTS5) competency-mapping engine linking shop-floor skills to vocational curricula; cut manual reconciliation effort by ~40%
+- **ICIS:Industrial-Competency-Intelligence-System** — Flask + SQLite (FTS5) competency-mapping engine linking shop-floor skills to vocational curricula; cut manual reconciliation effort by ~40%
 - **PCU-TATA ERP** — full-stack FastAPI + React student lifecycle system rebuilt around a PNPC-based attendance workflow, with fuzzy Excel/XLSB ingestion and automated PDF generation (ReportLab)
 - **TMPVL AuditIQ** — FastAPI rule engine with 11 compliance rules and WARNING/ERROR/FRAUD severity tagging for billing audits
 - Supervised ML model for spare-parts demand forecasting
@@ -121,7 +121,7 @@ Delivered four systems into internal use:
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.demolab.com/?user=maitray-agrawal&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=maitray-agrawal&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
