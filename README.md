@@ -27,6 +27,22 @@ Currently looking for **AI/ML Engineer, Full-Stack Developer, Data Scientist, an
 
 ---
 
+## AstraX
+
+**AstraX** is my personal family of AI products — seven systems, each its own domain, built on one philosophy: *build intelligent systems that solve meaningful real-world problems.*
+
+| Product | Domain | Status |
+|---|---|---|
+| [Niyukti](https://astra-niyukti.vercel.app/) | HRTech — talent intelligence & candidate matching | Live |
+| [Vajra](https://vajra-astra.onrender.com/) | Industrial AI — crisis & incident intelligence | Live |
+| [Satyam](https://satyam-app.onrender.com/) | GovTech/TrustTech — verification & compliance | Live |
+| Margadarshi | EdTech/CareerTech — multilingual career guidance | Live |
+| KuberSetu | FinTech — financial intelligence & operations | – |
+| Vaidhya | HealthTech — AI clinical documentation | Coming soon |
+| Agni | Agentic reasoning / sovereign AI layer | Coming soon |
+
+---
+
 ## Experience
 
 **AI/ML Engineer Intern — Tata Motors** — *May 2026 – Jul 2026*
@@ -55,7 +71,7 @@ Delivered four systems into internal use:
 - Sub-200ms webhook response at 14,400 requests/day
 - Automated 48-hour deadline notification engine
 
-### TalentMind AI — Data Science / ML
+### [Niyukti](https://astra-niyukti.vercel.app/) — HRTech / Data Science / ML
 **AI recruitment intelligence platform** with a six-pillar candidate-ranking engine and an explainability module for human-readable scoring justifications.
 
 `FastAPI` `scikit-learn` `Groq LLM` `SQLAlchemy` `SQLite`
@@ -63,10 +79,15 @@ Delivered four systems into internal use:
 - Benchmarked at 361.51 candidates/sec across 100,000 candidates
 - Groq-powered parser for unstructured job descriptions
 
-### [MentoraAI](https://mentoraai1.netlify.app/) — Full-Stack
+### [Margadarshi](https://mentoraai1.netlify.app/) — EdTech / CareerTech / Full-Stack
 **AI-powered career guidance platform** — built for Smart India Hackathon 2025, with multilingual and speech support.
 
 `React` `React Native` `FastAPI` `TensorFlow` `scikit-learn` `Spring Boot` `Supabase` `AWS` `Docker` `Bhashini API`
+
+### Vaidhya — HealthTech / Agentic AI *(coming soon)*
+**AI clinical documentation assistant** for rural clinics — SOAP note generation, drug-interaction checks, FHIR R4 export, and an offline NLP fallback for low-connectivity settings. Built for Smart India Hackathon 2025/2026 as Team AstraX.
+
+`React 19` `TypeScript` `FastAPI` `Express` `Gemini API`
 
 ### Industrial ERP / PCU-Tata Student Management — Full-Stack
 Full-stack student lifecycle system rebuilt around a PNPC-based attendance workflow with real data extraction from XLSB/Excel uploads.
@@ -92,16 +113,11 @@ Full-stack student lifecycle system rebuilt around a PNPC-based attendance workf
 ## GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maitray-agrawal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=maitray-agrawal&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/maitray-agrawal/maitray-agrawal/metrics/github-metrics.svg" width="100%" alt="GitHub metrics" />
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitray-agrawal&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maitray-agrawal&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=maitray-agrawal&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
