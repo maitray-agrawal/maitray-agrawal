@@ -37,7 +37,7 @@ Currently looking for **AI/ML Engineer, Full-Stack Developer, Data Scientist, an
 | [Vajra](https://vajra-astra.onrender.com/) | Industrial AI — crisis & incident intelligence | Live |
 | [Satyam](https://satyam-app.onrender.com/) | GovTech/TrustTech — verification & compliance | Live |
 | Margadarshi | EdTech/CareerTech — multilingual career guidance | Live |
-| KuberSetu | FinTech — financial intelligence & operations | – |
+| KuberSetu | FinTech — financial intelligence & operations | [Live](https://kuber-setu.vercel.app/) |
 | Vaidhya | HealthTech — AI clinical documentation | Coming soon |
 | Agni | Agentic reasoning / sovereign AI layer | Coming soon |
 
@@ -49,7 +49,7 @@ Currently looking for **AI/ML Engineer, Full-Stack Developer, Data Scientist, an
 
 Delivered four systems into internal use:
 - **ICME** — Flask + SQLite (FTS5) competency-mapping engine linking shop-floor skills to vocational curricula; cut manual reconciliation effort by ~40%
-- **PCU-TATA ERP** — full-stack FastAPI + React student lifecycle system with fuzzy Excel ingestion and automated PDF generation (ReportLab)
+- **PCU-TATA ERP** — full-stack FastAPI + React student lifecycle system rebuilt around a PNPC-based attendance workflow, with fuzzy Excel/XLSB ingestion and automated PDF generation (ReportLab)
 - **TMPVL AuditIQ** — FastAPI rule engine with 11 compliance rules and WARNING/ERROR/FRAUD severity tagging for billing audits
 - Supervised ML model for spare-parts demand forecasting
 
@@ -84,19 +84,19 @@ Delivered four systems into internal use:
 
 `React` `React Native` `FastAPI` `TensorFlow` `scikit-learn` `Spring Boot` `Supabase` `AWS` `Docker` `Bhashini API`
 
+### [KuberSetu](https://kuber-setu.vercel.app/) — FinTech / Agentic AI
+**Financial intelligence & operations platform** — part of the AstraX product family.
+
 ### Vaidhya — HealthTech / Agentic AI *(coming soon)*
 **AI clinical documentation assistant** for rural clinics — SOAP note generation, drug-interaction checks, FHIR R4 export, and an offline NLP fallback for low-connectivity settings. Built for Smart India Hackathon 2025/2026 as Team AstraX.
 
 `React 19` `TypeScript` `FastAPI` `Express` `Gemini API`
 
-### Industrial ERP / PCU-Tata Student Management — Full-Stack
-Full-stack student lifecycle system rebuilt around a PNPC-based attendance workflow with real data extraction from XLSB/Excel uploads.
-
-`FastAPI` `SQLAlchemy` `SQLite` `React 18` `Vite` `Tailwind`
-
 ---
 
 ## Tech Stack
+
+**Core Fundamentals** — Data Structures & Algorithms (DSU/small-to-large, bitmask DP, sparse tables), OOP, DBMS, Operating Systems & Linux/LVM administration, Git & version control
 
 **Languages** — Python, Java, JavaScript, C++, SQL
 
@@ -104,9 +104,13 @@ Full-stack student lifecycle system rebuilt around a PNPC-based attendance workf
 
 **Data Science &amp; Analytics** — Pandas, NumPy, scikit-learn, XGBoost, Tableau, R, Power BI-style dashboarding, ETL (CRISP-DM), statistical analysis
 
-**AI / ML &amp; Agentic Systems** — TensorFlow, LLM Routing, RAG, Prompt Engineering, Explainable AI, Multi-Agent Orchestration
+**Generative AI &amp; Agentic Systems** — LLM Routing, RAG, Prompt Engineering, Multi-Agent Orchestration, Explainable AI, LangChain, Groq LLaMA, Gemini API, TensorFlow
 
 **Data &amp; Cloud** — MongoDB, PostgreSQL, MySQL, SQLite, Supabase, Amazon Redshift, AWS (EC2, S3, IAM, RDS), Docker, Git, GitHub Actions, Vercel, Railway
+
+**Tools** — Mermaid, Draw.io, Canva, Google Antigravity IDE
+
+**Soft Skills** — Problem Solving, Cross-functional Collaboration, Technical Communication, Ownership & Shipping Discipline, Adaptability
 
 ---
 
